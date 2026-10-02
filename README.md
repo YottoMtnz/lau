@@ -50,4 +50,4 @@ Música y sonidos de [OpenGameArt.org](https://opengameart.org) (licencias CC0 y
 
 ## 📬 Contacto
 
-[Abre un issue](https://github.com/YottoMtnz/lau/issues)
+[laudragonvirtualgame2026@gmail.com](mailto:laudragonvirtualgame2026@gmail.com)
