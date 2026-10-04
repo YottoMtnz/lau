@@ -55,7 +55,7 @@ El juego principal funciona sin cuenta ni servidor. La conexión a internet solo
 
 ## 📱 Instalación en Android
 
-1. Entra en **[Releases](https://github.com/YottoMtnz/lau/releases/latest)** y descarga **`Lau.apk`**.
+1. Descarga **[Lau.apk](https://YottoMtnz.github.io/lau/Lau.apk)** (v1.1).
 2. Abre el APK en tu teléfono.
 3. Si Android lo solicita, permite temporalmente **instalar aplicaciones de esta fuente** para el navegador o gestor de archivos que estés usando.
 4. Pulsa **Instalar**.
